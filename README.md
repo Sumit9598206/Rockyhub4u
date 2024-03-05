@@ -29,7 +29,7 @@
 
 ## Variables
 
-Read [this](https://telegram.dog/LazyDevelopers/8) before you start messing up with your edits.
+Read [this](https://telegram.dog/Hub4u_Movie) before you start messing up with your edits.
 
 ### Required Variables
 * `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
@@ -56,7 +56,7 @@ Read [this](https://telegram.dog/LazyDevelopers/8) before you start messing up w
 * `PRIME_DOWNLOADERS`: ID of the users to which you want to give file uploading using url. Separate multiple ids by space.
 
 
-* Check [info.py](https://github.com/LazyDeveloperr/LazyPrincess/blob/master/info.py) for more
+* Check [info.py](https://github.com/Sumit9598206/Rockyhub4u) for more
 
 
 ## Deploy
